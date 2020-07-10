@@ -1,2 +1,2 @@
 # Project Center Omega
- New Website
+ New .ga website for future purposes.
